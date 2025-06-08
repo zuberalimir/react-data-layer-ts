@@ -23,3 +23,7 @@ react-data-layer-ts/
 ├── jest.setup.ts
 ├── tsconfig.json
 └── package.json
+
+## Architecture diagram
+
+## https://app.eraser.io/workspace/wJ2uacLmGXLNyFEZQUZN
